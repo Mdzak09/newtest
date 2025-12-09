@@ -1,11 +1,11 @@
 /*
- * @wi.DP-536
+ * @wi.refines drivepilot/DP-536 any number of lines
  * 
  */
 
 public class HelloWorld {
 
-    // @wi.DP-536
+    
     public static void sayHello() {
         System.out.println("Hello, World!");
     }
