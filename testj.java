@@ -5,7 +5,7 @@
 
 public class HelloWorld {
 
-    //@wi.refines drivepilot/DP-537 any number
+    //@wi.refines drivepilot/DP-537 any number of
     public static void sayHello() {
         System.out.println("Hello, World!");
     }
