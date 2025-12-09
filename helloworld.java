@@ -1,6 +1,6 @@
 public class HelloWorld {
 
-    //@wi.refines drivepilot/DP-537 any number of revisions
+    //@wi.refines drivepilot/DP-537 any number of revisions history
     public static void sayHello() {
         System.out.println("Hello, World!");
     }
