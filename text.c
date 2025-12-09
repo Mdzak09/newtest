@@ -1,14 +1,10 @@
 #include <stdio.h>
 
-/*
- * POLARION-ID: DP-439
- * This function is linked to the Software Requirement DP-440
- */
 
 void sayHello() {
     printf("Hello, World!\n");
 }
-
+//@wi.refines drivepilot/DP-439 any number of lines
 int main() {
     sayHello();
     return 0;
