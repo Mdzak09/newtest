@@ -1,11 +1,11 @@
 /*
- * @wi.DP-439
+ * @wi.DP-536
  * 
  */
 
 public class HelloWorld {
 
-    // POLARION-ID: @wi.DP-439
+    // @wi.DP-536
     public static void sayHello() {
         System.out.println("Hello, World!");
     }
